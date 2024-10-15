@@ -40,7 +40,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
   </thead>
   <tbody>
     <tr>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/Darrenkeane/gif1/blob/main/Trash%20Grabbers.gif"/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
