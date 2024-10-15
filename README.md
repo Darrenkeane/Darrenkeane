@@ -44,7 +44,7 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">In this game there is a timer for players to throw away trash. The process is that the waste is put into the BID machine to be decomposed, then it can be put into the Recycler. If the waste has not been decomposed and put directly into the Recycler, the score will be reduced. After the player has finished clearing the entire level, the remaining time on the timer will be converted into a score. The game made in godot..</td>
+      <td valign="text-top">In this game there is a timer for players to throw away trash. The process is that the waste is put into the BID machine to be decomposed, then it can be put into the Recycler. If the waste has not been decomposed and put directly into the Recycler, the score will be reduced. After the player has finished clearing the entire level, the remaining time on the timer will be converted into a score. The game made in godot.</td>
       <td valign="text-top">.</td>
     </tr>
     <tr>
