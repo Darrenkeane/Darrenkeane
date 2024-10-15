@@ -2,8 +2,7 @@
 Hello , I'm Darren keane
 # Hi, I'm Darren keane 👋
 ---
-Nice to meet you! I'm currently a student at Binus University, majoring in Game Application and Technology 🎮.
-And here I'm a game programmer.</br>
+Nice to meet you! I'm currently a student at Binus University, majoring in Game Application and Technology 🎮 and here I'm a game programmer.</br>
 
 
 
