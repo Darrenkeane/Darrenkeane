@@ -11,8 +11,8 @@ Nice to meet you! I'm currently a student at Binus University, majoring in Game 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"> 2d Side Scroll </a></th>
-      <th width="50%"> pong </a></th>
+      <th width="50%"> 2D Game Pong </a></th>
+      <th width="50%"> 2D Sider Controller </a></th>
     </tr>
   </thead>
   <tbody>
